@@ -1,4 +1,4 @@
-# Fake News Detection — Notebook Summary
+# Fake News Detection
 
 This repository contains a single Jupyter notebook of task 3 in Elevvo Pathways' internship, which is building a **binary text classifier** to detect **Fake vs. Real** news articles using  NLP. It follows a clear, reproducible pipeline: data loading -> preprocessing -> TF-IDF feature -> linear model -> evaluation. 
 
