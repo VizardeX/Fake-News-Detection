@@ -2,7 +2,6 @@
 
 This repository contains a single Jupyter notebook of task 3 in Elevvo Pathways' internship, which is building a **binary text classifier** to detect **Fake vs. Real** news articles using  NLP. It follows a clear, reproducible pipeline: data loading -> preprocessing -> TF-IDF feature -> linear model -> evaluation. 
 
-**Notebook:** `Fake_news_detection_elevvo_pahways.ipynb`  
 **Dataset (Kaggle):** [Dataset Link](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
 ---
